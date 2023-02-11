@@ -1,4 +1,0 @@
-/*
-   File: dev1.txt
- Version: 2 on TestRepos3
-*/

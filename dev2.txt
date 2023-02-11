@@ -1,4 +1,0 @@
-/*
-   File: dev2.txt
- Version: 1
-*/
